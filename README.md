@@ -1,5 +1,6 @@
 # Learning-R
-start from 2018/10/12 in DSSI class
+start from 2018/10/12 in **DSSI** class
+* **NTU** Data Science & Social Inquiry*
 
 ---
 R markdown
