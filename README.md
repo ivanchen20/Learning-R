@@ -8,10 +8,10 @@ R markdown
 
 Projects:
 - [Crawl Google News](/gnews.html)
-- [Crawl Reddits Data](first_successful_automatic_crawling.png)
+- [Crawl Reddits Data](first_successful_automatic_crawling.PNG)
 
 Practice:
-- [Markdown and CSS](Shiny/first css for md.png)
+- [Markdown and CSS](Shiny/first css for md.PNG)
 - [RMD with Shiny](/Shiny/LearnRMD.html)
 - [Presentation](/Shiny/LearnPresentation.html)
 
