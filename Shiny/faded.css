@@ -1,0 +1,22 @@
+body{
+    font-family: sans-serif, Microsoft JhengHei;
+}
+
+h1 {
+    background-color: bisque;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+    text-shadow: #FFFFFF;
+    font-weight: bolder;
+}
+
+h2 {
+    color: cadetblue;
+    text-shadow: 1px 1px #8F8F8F;
+}
+
+.title{
+    background-color: black;
+    color: aliceblue;
+}
