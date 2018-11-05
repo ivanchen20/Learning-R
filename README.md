@@ -11,7 +11,7 @@ Projects:
 - [Crawl Reddits Data](first_successful_automatic_crawling.PNG)
 
 Practice:
-- [Markdown and CSS](Shiny/first css for md.PNG)
+- [Markdown and CSS](Shiny/first css for rmd.PNG)
 - [RMD with Shiny](/Shiny/LearnRMD.html)
 - [Presentation](/Shiny/LearnPresentation.html)
 
