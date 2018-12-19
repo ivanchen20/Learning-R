@@ -9,6 +9,7 @@ R markdown
 Projects:
 - [Crawl Google News](/gnews.html)
 - [Crawl Reddits Data](first_successful_automatic_crawling.PNG)
+- [Barchart with Movie: AquaMan, discussion on PTT](/Aquaman.html)
 
 Practice:
 - [Markdown and CSS](Shiny/first css for rmd.PNG)
